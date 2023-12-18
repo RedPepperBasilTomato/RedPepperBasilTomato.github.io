@@ -24,7 +24,7 @@ backImg = loadImage('assets/TestBackground.jpg');
   kelpImg = loadImage('assets/TestKelp.png');
   lampImg = loadImage('assets/TestRadio.png');
   coralImg = loadImage('assets/TestCoral.png');
-  clearImg = loadImage('assets/clear.png');
+  clearImg = loadImage('assets/clear(1).png');
 }
 
 /* SETUP RUNS ONCE */
